@@ -1,0 +1,1 @@
+Gli input da dare al programma sono: width, height (che corrispondono alla dimensione della scacchiera), I, O, T, J, L, S, Z (che corrispondono al numero delle varie forme del tetris a disposizione).
